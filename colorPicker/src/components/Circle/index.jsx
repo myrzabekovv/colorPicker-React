@@ -1,5 +1,0 @@
-function Circle(props) {
-  return{
-    
-  }
-}
